@@ -1,6 +1,5 @@
-# nobledesk: Desktop ROS 2 Jazzy over Ubuntu 24 in VM on Mac
+# nobledesk: (For TB5-WaLI) Desktop ROS 2 Jazzy over Ubuntu 24 in VM on Mac
 
-This repo contains the desktop artifacts from participating in the  
-ROS 2 Jazzy Jalisco Pre-Release Test Party
+TB5-WaLI Desktop is in tb5-wali_ws
 
-For the Raspberry Pi 5 Jazzy Test Party artifacts, see pi5noble repository
+
